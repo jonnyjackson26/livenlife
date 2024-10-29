@@ -1,0 +1,16 @@
+  /* Social media hover styles */
+  .footer a[href*="instagram"]:hover {
+    background-color: #e1306c;
+    transform: scale(1.2);
+  }
+  
+  .footer a[href*="tiktok"]:hover {
+    background-color: #010101;
+    transform: scale(1.2);
+  }
+  
+  .footer a[href*="facebook"]:hover {
+    background-color: #1877f2;
+    transform: scale(1.2);
+  }
+  
